@@ -1,5 +1,5 @@
 # Event-driven DOM modification
-
+dcasfds
 In this exercise we're going to bind event listeners to DOM elements, and change element appearance using classes. Then we're going to get you to combine some of those techniques in a game board!
 
 ---
